@@ -1,0 +1,70 @@
+/*default table*/
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+table th {
+    background-color: #000297;
+    color: white;
+}
+
+table td {
+    background-color: #FDEDEC;
+}
+
+table tr {
+    background-color: #FADBD8 !important;
+}
+/*
+table tr:nth-child(odd) {
+    background-color: #FDEDEC !important;
+}
+*/
+turquoise = hsl(171, 100%, 41%)
+blue=hsl(217, 71%, 53%)
+green=hsl(141, 71%, 48%)
+yellow=hsl(48, 100%, 67%)
+red=hsl(348, 100%, 61%)
+grey=hsl(0, 3%, 50%)
+
+
+blockquote {
+    border-left: 5px solid turquoise;
+    background: hsl(171, 100%, 90%);
+    padding: 10px 30px 10px
+}
+
+.is-parameter {
+    border-left: 5px solid grey;
+    background: hsl(0, 3%, 90%);
+    padding: 10px 50px 10px 
+}
+
+.is-primary {
+    border-left: 5px solid turquoise;
+    background: hsl(171, 100%, 90%);
+    padding: 10px 30px 10px 
+}
+
+.is-info {
+    border-left: 5px solid blue;
+    background: hsl(217, 71%, 90%);
+    padding: 10px 30px 10px 
+}
+
+.is-feature {
+    border-color: green;
+    background: hsl(141, 71%, 90%)
+}
+
+.is-note {
+    border-color: yellow;
+    background: hsl(48, 100%, 90%)
+}
+
+.is-warning {
+    border-color: blue;
+    background: hsl(348, 100%, 90%)
+}
