@@ -1,0 +1,3 @@
+# SuperDARN 
+
+The Super Dual Auroral Radar Network (SuperDARN) is an international network of high-frequency (HF) radars located throughout the northern and southern hemispheres. SuperDARN is operated and maintained by an international collaboration of multiple universities and research institutions, located throughout the world. The purpose of the SuperDARN is to study plasma in the near-Earth space system, its interaction with the Earth’s atmosphere and geospace environment, it’s effects on the terrestrial “hard” infrastructure (e.g. communications, energy, transportation, etc…), and it’s role in the Sun-Earth system.

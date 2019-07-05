@@ -25,9 +25,9 @@ If you have any question or concerns please submit an Issue on the SuperDARN RST
          * [Grid Plots](user_guide/grid_plot.md)
          * [Convection Plots](user_guide/map_plot.md)
          * [Customizing Colors](user_guide/colors.md)
-  - SuperDARN Data Formats
-    * [Dmap Data](references/general/dmap_data.md)
-    * [IQDAT Format](references/general/iqdat.md)
-    * [RAWACF Format](references/general/rawacf.md)
-    * [FITACF Format](references/general/fitacf.md)
+  - [SuperDARN](superdarn/introduction.md)
+      * [Radars](superdarn/radar_table.md)
+      * [Acknowledging SuperDARN Data](superdarn/acknowledgments.md)
+      - Data Formats
+          * [File Naming](superdarn/formats/file_naming.md)
 
